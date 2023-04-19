@@ -6,4 +6,3 @@
 
 1) variables
 2) Functions
-3) loops
