@@ -5,4 +5,4 @@
 ### Learning shell scripting
 
 1) variables
-2) Functions  
+2) Functions
