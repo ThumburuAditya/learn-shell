@@ -4,8 +4,15 @@
 
 ### Learning shell scripting
 
-1) variables
-2) Functions
+1) Printing
+2) Variables
+3) Inputs
+4) Conditions
+5) Loops
+6) Function
+7) Exit status
+8) Quotes
+9) SED Editor
 
 Topics covered till now 
 1) Linux commands
